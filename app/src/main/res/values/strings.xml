@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="access_required">Necesitamos que aceptes los permisos de localizacion para usar esta aplicacion</string>
+</resources>
